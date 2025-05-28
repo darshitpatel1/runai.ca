@@ -1,5 +1,5 @@
 # runai.ca
 This project is now open source, please visit our site to learn more about this project.
-We automates your any manual work for web applications with help of AI
+We automates your any manual work with using API with help of AI
 
 
